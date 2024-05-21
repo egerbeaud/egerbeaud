@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/evan-gerbeaud-36a003293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnaWI89xlTVKV8bCqxklZXw%3D%3D>Linkedin"</a> </br>
+<a href="https://www.linkedin.com/in/evan-gerbeaud-36a003293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnaWI89xlTVKV8bCqxklZXw%3D%3D>Linkedin">Linkedin</a> </br>
 Mail : gerbeaudevangmail.com
 </p>
 
