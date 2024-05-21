@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Gerbeaud</h1>
 <h2 align="center"> Je suis un etudiant de premiere année du BUT informatique de Limoges</h2>
-- 🔭 I’m currently working on **Scrabble project**
 
 - 🌱 I’m currently learning **Computer science (Java, SQL, ...)**
-
-- 📫 How to reach me **gerbeaudevan@gmail.com**
-
-- ⚡ Fun fact **I'm the prettier man on the planet earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
