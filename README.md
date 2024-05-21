@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Linkedin : linkedin.com/in/evan-gerbeaud-36a003293
+  Linkedin : linkedin.com/in/evan-gerbeaud-36a003293</br>
   Mail : gerbeaudevangmail.com
 </p>
 
