@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Gerbeaud</h1>
-<h2 align="center"> I am a first year student at the BUT informatique in Limoges.</h2>
+<h2 align="center"> I am a second year student at the BUT informatique in Limoges.</h2>
 
 - 🌱 I’m currently learning **Computer science (Java, SQL, ...)**
 - 🌍 I'm based on Limoges
